@@ -13,7 +13,7 @@ My first Kaggle competition, involving exploration, feature engineering, and mod
 - Can less important variables be transformed into more useful form?
 
 ## Feature Creation
-- - encode C, Q and S (0, 0, 1) embarked from S much higher survival rate
+- encode C, Q and S (0, 0, 1) embarked from S much higher survival rate
 - SibSp to Binary of less than 2 or not, less than two much higher survival rate
 - Parch less than 4 to 0, more than 4 has a low survival rate
 
